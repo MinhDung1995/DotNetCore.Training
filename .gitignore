@@ -1,0 +1,20 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/DotNet.Core.Traning/v15/Server/sqlite3
+/Training.RazorPage.JsonDataBuilder/obj/Training.RazorPage.JsonDataBuilder.csproj.nuget.g.targets
+/Training.RazorPage.JsonDataBuilder/obj/Training.RazorPage.JsonDataBuilder.csproj.nuget.g.props
+/Training.RazorPage.JsonDataBuilder/obj/Training.RazorPage.JsonDataBuilder.csproj.nuget.cache
+/Training.RazorPage.JsonDataBuilder/obj/Debug/netcoreapp2.1
+/Training.RazorPage.JsonDataBuilder/bin/Debug/netcoreapp2.1
+/Training.UserIdentify.WebApi/bin/Debug/netcoreapp2.1
+/Training.UserIdentify.WebApi/obj/Training.UserIdentify.WebApi.csproj.nuget.g.targets
+/Training.UserIdentify.WebApi/obj/Training.UserIdentify.WebApi.csproj.nuget.g.props
+/Training.UserIdentify.WebApi/obj/Training.UserIdentify.WebApi.csproj.nuget.cache
+/Training.UserIdentify.WebApi/obj/Debug/netcoreapp2.1
+/Training.WebApi.StartUp/obj/Training.WebApi.StartUp.csproj.nuget.g.targets
+/Training.WebApi.StartUp/obj/Training.WebApi.StartUp.csproj.nuget.g.props
+/Training.WebApi.StartUp/obj/Training.WebApi.StartUp.csproj.nuget.cache
+/Training.WebApi.StartUp/obj/Debug/netcoreapp2.1
+/Training.UserIdentify.WebApi/Properties/launchSettings.json
